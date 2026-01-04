@@ -23,4 +23,9 @@ Dibangun menggunakan **React Native**, **Expo**, dan **TypeScript**.
 4. Scan QR Code dengan aplikasi Expo Go.
 
 ---
-*Dibuat oleh harlylilir-dev*
+
+Anggota kelompok:
+1. Harly Lilir
+2. Rosalia Lengkong
+3. Marselinus Doodoh
+4. Julio Lilomboba
